@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "https://com.example.flutter_explore_deeplink",
+      "package_name": "https://suosseyha.github.io/#/",
       "sha256_cert_fingerprints":
       ["3C:73:65:28:92:7C:DD:5C:3B:8E:7E:3E:95:89:F1:02:B0:49:5E:4C:22:17:BF:F1:5E:76:8A:4B:35:4E:FC:F6"]
     }
